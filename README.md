@@ -8,6 +8,5 @@
 - 🤔 I’m looking for help with : Java SpringBoot
 - 💬 Ask me about : chess
 - 📫 How to reach me: Email on shreyashsiddharth@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can draw well
+
   
