@@ -1,7 +1,7 @@
 👋 Hi, I'm Shreyash Siddharth
 🚀 Software Engineer | 2+ Years in Early-Stage Startup Engineering
 
-Formerly at Lana Health, where I helped build real-time hospital monitoring systems, cross-platform apps, and ML-powered features from the ground up.
+Currently at Lana Health, where I helped build real-time hospital monitoring systems, cross-platform apps, and ML-powered features from the ground up.
 
 🧠 About Me
 
